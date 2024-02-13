@@ -1,4 +1,4 @@
 remote_theme: poole/hyde
 plugins:
 - jekyll-remote-theme
-baseurl: http://konradhoeffner.github.io/markdowntest123/
+baseurl: http://konradhoeffner.github.io/markdowntest/
